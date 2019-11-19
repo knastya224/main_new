@@ -1,0 +1,426 @@
+.your-class {
+  /* max-width: 600px; */
+  margin: 0 auto;
+}
+
+.slide_1 {
+  display: inline-block;
+
+  width: 1282px;
+  height: 669px;
+  background: linear-gradient(to top, #00f1ff 0%, #00a8b2 100%);
+  /* background-image: url(../backg.jpg); */
+}
+
+.back_img {
+  width: 1282px;
+  height: 669px;
+  z-index: -100;
+  background-image: url(../img/backg.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  margin-top: -628px;
+  margin-left: 8%;
+  /* opacity: 0.7; */
+}
+
+.logo__img {
+  margin: 167px 0 55px 246px;
+}
+
+.logo__text {
+  width: 331px;
+  height: 88px;
+  color: #333333;
+  font-family: Catamaran;
+  font-size: 36px;
+  letter-spacing: 3.6px;
+
+  margin: 0 0 245px 219px;
+}
+
+.form {
+  width: 377px;
+  height: 455px;
+  box-shadow: 0 6px 6px 1px rgba(44, 43, 45, 0.7);
+  background-color: #333333;
+  opacity: 0.9;
+  border: 1px solid black;
+  margin: -533px 0 0 749px;
+}
+
+.join {
+  width: 60px;
+  height: 15px;
+  color: #ffffff;
+  font-family: Catamaran;
+  font-size: 18px;
+
+  margin: 21px 0 0 63px;
+}
+
+.sign {
+  width: 190px;
+  height: 58px;
+  background-color: #ffffff;
+  opacity: 0.7;
+
+  margin: -37px 0 0 188px;
+}
+
+.sign_in {
+  width: 59px;
+  height: 17px;
+  color: #333333;
+  font-family: Catamaran;
+  font-size: 18px;
+
+  padding: 21px 0 0 65px;
+}
+
+/* Form */
+
+#name {
+  width: 347px;
+  height: 40px;
+  background-color: #ffffff;
+
+  font-family: Catamaran;
+  font-size: 18px;
+
+  margin: 23px 0 0 13px;
+  padding-left: 10px;
+}
+
+#email {
+  width: 347px;
+  height: 40px;
+  background-color: #ffffff;
+
+  font-family: Catamaran;
+  font-size: 18px;
+
+  margin: 15px 0 0 13px;
+  padding-left: 10px;
+}
+
+#password {
+  width: 347px;
+  height: 40px;
+  background-color: #ffffff;
+
+  font-family: Catamaran;
+  font-size: 18px;
+
+  margin: 15px 0 0 13px;
+  padding-left: 10px;
+}
+
+.form__text {
+  width: 317px;
+  height: 40px;
+  color: #ffffff;
+  font-family: Catamaran;
+  font-size: 16px;
+  letter-spacing: 1.6px;
+
+  margin: 14px 0 0 13px;
+}
+
+#code {
+  width: 347px;
+  height: 40px;
+  background-color: #ffffff;
+
+  font-family: Catamaran;
+  font-size: 18px;
+
+  margin: 15px 0 0 13px;
+  padding-left: 10px;
+}
+
+#but {
+  width: 347px;
+  height: 40px;
+  background-color: #ff6600;
+  border: none;
+
+  color: #333333;
+  font-family: "Catamaran - Black";
+  font-size: 30px;
+  letter-spacing: 3px;
+
+  margin: 15px 0 34px 14px;
+}
+
+/* slide 2 */
+
+.slide_2 {
+  width: 1282px;
+  height: 1350px;
+  background-color: #ffffff;
+
+  margin-left: 100px;
+}
+
+.header__what {
+  width: 316px;
+  height: 31px;
+  color: #00a8b2;
+  font-family: "Catamaran - Black";
+  font-size: 30px;
+  letter-spacing: 3px;
+
+  margin: 72px 488px 0 478px;
+}
+
+.header__web {
+  width: 764px;
+  height: 40px;
+  color: #333333;
+  font-family: Catamaran;
+  font-size: 16px;
+  letter-spacing: 1.6px;
+
+  margin: 17px 0 0 247px;
+}
+
+.main__info {
+  display: flex;
+}
+
+.main__how {
+  width: 232px;
+  height: 24px;
+  color: #00a8b2;
+  font-family: "Catamaran - Black";
+  font-size: 30px;
+  letter-spacing: 3px;
+
+  margin: 55px 0 0 524px;
+}
+
+.info1__img {
+  width: 68px;
+  height: 68px;
+  margin: 54px 0 0 152px;
+}
+
+.text_11 {
+  color: #00a8b2;
+  font-family: "Catamaran - Black";
+  font-size: 18px;
+  letter-spacing: 1.8px;
+
+  margin: 1px 0 0 157px;
+}
+
+.text_12 {
+  width: 142px;
+  height: 53px;
+  color: #333333;
+  font-family: Catamaran;
+  font-size: 16px;
+
+  margin: 15px 0 0 115px;
+}
+
+.info2__img {
+  width: 77px;
+  height: 77px;
+  margin: 52px 0 0 189px;
+}
+
+.text_21 {
+  color: #00a8b2;
+  font-family: "Catamaran - Black";
+  font-size: 18px;
+  letter-spacing: 1.8px;
+
+  margin: 1px 0 0 185px;
+}
+
+.text_22 {
+  width: 201px;
+  height: 86px;
+  color: #333333;
+  font-family: Catamaran;
+  font-size: 16px;
+  letter-spacing: 1.3px;
+  text-align: center;
+
+  margin: 3px 0 0 131px;
+}
+
+.info3__img {
+  width: 75px;
+  height: 70px;
+  margin: 52px 0 0 163px;
+}
+
+.text_31 {
+  color: #00a8b2;
+  font-family: "Catamaran - Black";
+  font-size: 18px;
+  letter-spacing: 1.8px;
+
+  margin: 5px 0 0 173px;
+}
+
+.text_32 {
+  width: 250px;
+  height: 113px;
+  color: #333333;
+  font-family: Catamaran;
+  font-size: 16px;
+  letter-spacing: 1.3px;
+  text-align: center;
+
+  margin: 5px 0 0 75px;
+}
+
+.info4__img {
+  width: 74px;
+  height: 76px;
+  margin: 52px 0 0 141px;
+}
+
+.text_41 {
+  color: #00a8b2;
+  font-family: "Catamaran - Black";
+  font-size: 18px;
+  letter-spacing: 1.8px;
+
+  margin: 5px 0 0 146px;
+}
+
+.text_42 {
+  width: 210px;
+  height: 41px;
+  color: #333333;
+  font-family: Catamaran;
+  font-size: 16px;
+  letter-spacing: 1.3px;
+  text-align: center;
+
+  margin: 5px 0 0 74px;
+}
+
+/* finish line */
+
+.slider_2__finish {
+  width: 1284px;
+  height: 121px;
+  background-color: #333333;
+  display: flex;
+
+  margin-top: 54px;
+}
+
+.finish__logo {
+  width: 160px;
+  height: 64px;
+  /* background-color: #ffffff; */
+  padding: 28px 0 0 54px;
+}
+
+.finish__line1 {
+  width: 45px;
+  height: 5px;
+  background-color: #ffffff;
+
+  margin: 35px 0 0 758px;
+}
+
+.finish__text {
+  width: 191px;
+  height: 52px;
+  color: #ffffff;
+  font-family: Catamaran;
+  font-size: 16px;
+  letter-spacing: 1.6px;
+  text-align: center;
+
+  margin-top: 28px;
+  margin-left: -22px;
+}
+
+.finish__line2 {
+  width: 45px;
+  height: 5px;
+  background-color: #ffffff;
+
+  margin: 35px 70px 0 -21px;
+}
+
+/* input */
+
+.form-switch {
+  display: inline-block;
+  cursor: pointer;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.form-switch i {
+  position: relative;
+  display: inline-block;
+  margin-right: 0.5rem;
+  width: 46px;
+  height: 26px;
+  background-color: #e6e6e6;
+  border-radius: 23px;
+  vertical-align: text-bottom;
+  transition: all 0.3s linear;
+
+  margin: 9px 0 -13px 262px;
+}
+
+.form-switch i::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  width: 42px;
+  height: 22px;
+  background-color: #fff;
+  border-radius: 11px;
+  transform: translate3d(2px, 2px, 0) scale3d(1, 1, 1);
+  transition: all 0.25s linear;
+}
+
+.form-switch i::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  width: 22px;
+  height: 22px;
+  background-color: #fff;
+  border-radius: 11px;
+  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.24);
+  transform: translate3d(2px, 2px, 0);
+  transition: all 0.2s ease-in-out;
+}
+
+.form-switch:active i::after {
+  width: 28px;
+  transform: translate3d(2px, 2px, 0);
+}
+
+.form-switch:active input:checked + i::after {
+  transform: translate3d(16px, 2px, 0);
+}
+
+.form-switch input {
+  display: none;
+}
+
+.form-switch input:checked + i {
+  background-color: #4bd763;
+}
+
+.form-switch input:checked + i::before {
+  transform: translate3d(18px, 2px, 0) scale3d(0, 0, 0);
+}
+
+.form-switch input:checked + i::after {
+  transform: translate3d(22px, 2px, 0);
+}
